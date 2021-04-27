@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Aaron Fraint, and I work at the intersection of transportation planning and urban data science.
+
 <!--
 **aaronfraint/aaronfraint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
